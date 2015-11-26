@@ -1,13 +1,11 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:55:03.048514
-#+TITLE: 新譯華嚴經七處九會頌釋章
-#+PROPERTY: CBETA_ID T36n1738
-#+PROPERTY: ID KR6e0016
-#+PROPERTY: SOURCE Taisho Tripitaka Vol. 36, No. 1738
-#+PROPERTY: VOL 36
-#+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
-#+PROPERTY: LASTPB <pb:KR6e0016_T_000-0709c>¶¶¶¶¶¶¶¶¶
+#+TITLE: 新譯華嚴經七處九會頌釋章 / master
+#+DATE: 2015-11-26 14:09:49.110970
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         T|【大】     |
 
-[[file:KR6e0016_001.txt::001-0709c13][華嚴七處九會頌釋章序]]
-[[file:KR6e0016_001.txt::0710a6][新譯華嚴經七處九會頌釋章]]
+* 目次
+* [[file:KR6e0016_001.txt::001-0709c13][華嚴七處九會頌釋章序]]
+* [[file:KR6e0016_001.txt::0710a6][新譯華嚴經七處九會頌釋章]]
+* 卷
+** [[file:KR6e0016_001.txt][新譯華嚴經七處九會頌釋章 1]]
